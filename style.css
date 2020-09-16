@@ -1,0 +1,68 @@
+
+.container{
+    background-color: #1b335d;
+    width: 970px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 0px auto;
+}
+.header{
+    background-color: #CF3036;
+    color:#C2D6EC;
+    padding: 1px 10px 1px 10px;
+    border-radius: 15px;
+    margin-bottom: 18px;
+}
+a{
+    color: #5dced5;
+}
+.main_box{
+    background-color: #0e1822;
+    color: #bdd6ec;
+    width: 742px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 25px;
+    margin-left: 10px;
+}
+#main_head{
+    padding: 10px;
+    margin-left: 10px;
+}
+.nav_menu{
+    background-color: #297d8c;
+    border-radius: 25px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+    margin-right: 5px;
+}
+#list_head{
+    list-style: none;
+    margin-left: -42px; /*42 is always the answer! */
+}
+li{
+    color: #bdd6ec;
+    margin-left: -25px;
+    font-weight: bolder;
+    font-size: 15px;
+}
+.highlight{
+    color: #6170d6;
+}
+.list_2{
+    margin-left: -20px;
+}
+.list_3{
+    margin-left: 17px;
+}
+#footer{
+    background-color: #5d6673;
+    border-radius: 15px;
+    padding: 3px;
+    color:#bdd6ec;
+    margin-top: 15px;
+}
+#footer p{
+    margin-left: 20px;
+}
